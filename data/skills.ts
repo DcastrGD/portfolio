@@ -17,10 +17,6 @@ export const skillCategories: SkillCategory[] = [
       { name: "HTML" },
       { name: "CSS" },
       { name: "JavaScript" },
-      { name: "TypeScript" },
-      { name: "React" },
-      { name: "Next.js" },
-      { name: "Tailwind CSS" },
     ],
   },
   {
@@ -28,9 +24,7 @@ export const skillCategories: SkillCategory[] = [
     icon: "Server",
     skills: [
       { name: "Node.js" },
-      { name: "Go" },
       { name: "Python" },
-      { name: "APIs REST" },
     ],
   },
   {
@@ -40,7 +34,6 @@ export const skillCategories: SkillCategory[] = [
       { name: "PostgreSQL" },
       { name: "MySQL" },
       { name: "SQL Server" },
-      { name: "SQLite" },
     ],
   },
   {
@@ -49,8 +42,8 @@ export const skillCategories: SkillCategory[] = [
     skills: [
       { name: "Git" },
       { name: "GitHub" },
-      { name: "Docker" },
       { name: "Linux" },
+      { name: "AI" },
     ],
   },
 ];

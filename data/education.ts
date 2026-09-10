@@ -8,43 +8,43 @@ export interface Education {
 
 export const education: Education[] = [
   {
-    title: "[Grado / Ingeniería en Informática]",
-    institution: "[Universidad / Centro de estudios]",
-    period: "2019 — 2023",
+    title: "[Ciclo Formativo (Grado Superior) / Administración de Sistemas Informáticos en Red]",
+    institution: "[La Caruña / IES Fernando Wirtz Suarez]",
+    period: "2024 — 2026",
     description:
-      "Formación en fundamentos de ciencias de la computación, algoritmos, estructuras de datos, ingeniería de software y bases de datos.",
+      "Formación en administración de sistemas informáticos en red, incluyendo instalación, configuración y mantenimiento de hardware y software.",
     type: "degree",
   },
   {
-    title: "[Ciclo Formativo / Bootcamp]",
-    institution: "[Centro de formación]",
-    period: "2018 — 2019",
+    title: "[Ciclo Formativo (Grado Medio) / Sistemas Microinformáticos y Redes]",
+    institution: "[Baio / IES Maximino Romero de Lema]",
+    period: "2021 — 2024",
     description:
-      "Formación práctica en desarrollo web con tecnologías modernas y metodologías ágiles.",
+      "Formación en sistemas microinformáticos y redes, incluyendo instalación, configuración y mantenimiento de hardware y software.",
     type: "degree",
   },
 ];
 
 export const certifications: Education[] = [
   {
-    title: "[Certificación en Cloud Computing]",
-    institution: "[Plataforma / Proveedor]",
-    period: "2024",
-    description: "Certificación profesional en servicios cloud y despliegue de aplicaciones.",
+    title: "[Certificación Introducción a Cisco Packet Tracer]",
+    institution: "[Plataforma de formación]",
+    period: "2025",
+    description: "Certificación que valida conocimientos en el uso de Cisco Packet Tracer para simulación de redes y resolución de problemas de conectividad.",
     type: "certification",
   },
-  {
-    title: "[Curso de React Avanzado]",
-    institution: "[Plataforma de formación]",
-    period: "2023",
-    description: "Patrones avanzados de React, rendimiento y testing.",
-    type: "course",
-  },
-  {
-    title: "[Curso de TypeScript]",
-    institution: "[Plataforma de formación]",
-    period: "2023",
-    type: "course",
-  },
+  // {
+  //   title: "[Curso de React Avanzado]",
+  //   institution: "[Plataforma de formación]",
+  //   period: "2023",
+  //   description: "Patrones avanzados de React, rendimiento y testing.",
+  //   type: "course",
+  // },
+  // {
+  //   title: "[Curso de TypeScript]",
+  //   institution: "[Plataforma de formación]",
+  //   period: "2023",
+  //   type: "course",
+  // },
 ];
 

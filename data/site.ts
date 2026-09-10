@@ -1,27 +1,27 @@
 export const siteConfig = {
-  name: "Diego",
-  fullName: "Diego [Tu Apellido]",
-  title: "Full Stack Developer",
+  name: "Diego Castro",
+  fullName: "Diego Castro",
+  title: "Junior Developer",
   description:
-    "Desarrollador de software apasionado por crear aplicaciones web modernas, escalables y con excelente experiencia de usuario.",
+    "Desarrollador de software apasionado por crear aplicaciones mordernas.",
   shortBio:
-    "Me especializo en construir aplicaciones web completas utilizando tecnologías modernas. Desde interfaces de usuario intuitivas hasta APIs robustas, disfruto resolviendo problemas complejos con código limpio y eficiente.",
-  email: "tu@email.com",
-  github: "https://github.com/tu-usuario",
-  linkedin: "https://linkedin.com/in/tu-usuario",
+    "Me especializo en construir aplicaciones completas utilizando tecnologías modernas. Desde interfaces intuitivas hasta APIs robustas, disfruto resolviendo problemas complejos con código limpio y eficiente.",
+  email: "dcastrgd@gmail.com",
+  github: "https://github.com/DcastrGD",
+  linkedin: "https://www.linkedin.com/in/diego-kstro-3a58b823a/",
   location: "España",
   available: true,
   stats: {
-    yearsExperience: 3,
-    projectsCompleted: 15,
-    technologiesUsed: 20,
+    yearsExperience: 4,
+    projectsCompleted: 1,
+    technologiesUsed: 8,
     coffeeConsumed: "∞",
   },
   about: {
     paragraph1:
-      "Soy un desarrollador Full Stack con experiencia en la creación de aplicaciones web modernas. Me apasiona escribir código limpio, aprender nuevas tecnologías y construir productos que aporten valor real.",
+      "Soy un desarrollador con poca experiencia en la creación de aplicaciones modernas. Me apasiona escribir código limpio, aprender nuevas tecnologías.",
     paragraph2:
-      "Trabajo principalmente con React, Next.js y Node.js en el frontend y backend, complementando con bases de datos relacionales y herramientas DevOps. Busco siempre la mejor combinación de rendimiento, accesibilidad y experiencia de usuario.",
+      "Trabajo principalmente con Python, JavaScript, SQL, HTML, CSS, Bash, PowerShell, complementando con bases de datos relacionales y herramientas DevOps. Busco siempre la mejor combinación de rendimiento, accesibilidad y experiencia.",
     goals:
       "Mi objetivo es seguir creciendo como desarrollador, contribuir a proyectos open source y crear soluciones tecnológicas que hagan la diferencia.",
   },
