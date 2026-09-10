@@ -44,6 +44,7 @@ export const skillCategories: SkillCategory[] = [
       { name: "GitHub" },
       { name: "Linux" },
       { name: "AI" },
+      { name: "Neovim" },
     ],
   },
 ];

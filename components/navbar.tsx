@@ -21,7 +21,6 @@ const navLinks = [
   { label: "Proyectos", href: "#proyectos" },
   { label: "Experiencia", href: "#experiencia" },
   { label: "Educación", href: "#educacion" },
-  { label: "Contacto", href: "#contacto" },
 ];
 
 export function Navbar() {

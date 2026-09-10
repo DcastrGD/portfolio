@@ -18,15 +18,15 @@ export const projects: Project[] = [
     // demo: "https://fitness-app-demo.vercel.app",
     featured: true,
   },
-  // {
-  //   title: "Task Manager API",
-  //   description:
-  //     "API REST robusta para gestión de tareas con autenticación JWT, roles de usuario y documentación OpenAPI. Arquitectura limpia con tests unitarios e integración.",
-  //   image: "/projects/task-manager.webp",
-  //   tags: ["Node.js", "TypeScript", "PostgreSQL", "Docker"],
-  //   github: "https://github.com/tu-usuario/task-manager",
-  //   featured: true,
-  // },
+  {
+    title: "Linux (Arch Linux) - Configuración de entorno de desarrollo",
+    description:
+      "Entorno de desarrollo personalizado en Arch Linux, optimizado para productividad y eficiencia.",
+    image: "/projects/preview_arch.png",
+    tags: ["Linux", "Arch Linux", "Bash", "Zsh", "Tmux", "Neovim", "Git"],
+    github: "https://github.com/DcastrGD/Dotfiles",
+    featured: true,
+  },
   // {
   //   title: "E-Commerce Dashboard",
   //   description:

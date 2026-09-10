@@ -13,7 +13,7 @@ export const siteConfig = {
   available: true,
   stats: {
     yearsExperience: 4,
-    projectsCompleted: 1,
+    projectsCompleted: 2,
     technologiesUsed: 8,
     coffeeConsumed: "∞",
   },
