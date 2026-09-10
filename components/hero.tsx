@@ -95,7 +95,7 @@ export function Hero() {
             Ver proyectos
             <ArrowDown className="size-4" />
           </Button>
-          <Button
+          {/* <Button
             variant="outline"
             size="lg"
             onClick={() =>
@@ -106,7 +106,7 @@ export function Hero() {
             className="w-full sm:w-auto"
           >
             Contactar
-          </Button>
+          </Button> */}
         </motion.div>
 
         <motion.div
