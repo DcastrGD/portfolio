@@ -11,8 +11,7 @@ export interface Project {
 export const projects: Project[] = [
   {
     title: "Discord-Bot-project",
-    description:
-      "Un bot de Discord desarrollado en JavaScript, utilizando la API de Discord.js para interactuar con los servidores y usuarios de Discord.",
+    description: "Un bot de Discord desarrollado en JavaScript, utilizando la librería Discord.js para interactuar con los servidores y usuarios de Discord.",
     image: "/projects/discord.png",
     tags: ["NodeJS", "JavaScript", "Discord.jsV12"],
     github: "https://github.com/DcastrGD/Discord-Bot-project",
@@ -62,10 +61,9 @@ export const projects: Project[] = [
   //   description:
   //     "Aplicación del tiempo con geolocalización, pronóstico extendido y visualización de datos meteorológicos con gráficos interactivos.",
   //   image: "/projects/weather-app.webp",
-  //   tags: ["React", "TypeScript", "APIs REST", "Tailwind CSS"],
+  //   tags: ["React", "TypeScript", "Tailwind CSS"],
   //   github: "https://github.com/tu-usuario/weather-app",
   //   demo: "https://weather-app-demo.vercel.app",
   //   featured: false,
   // },
 ];
-

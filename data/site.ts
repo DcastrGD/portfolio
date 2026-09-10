@@ -5,7 +5,7 @@ export const siteConfig = {
   description:
     "Desarrollador de software apasionado por crear aplicaciones mordernas.",
   shortBio:
-    "Me especializo en construir aplicaciones completas utilizando tecnologías modernas. Desde interfaces intuitivas hasta APIs robustas, disfruto resolviendo problemas complejos con código limpio y eficiente.",
+    "Me especializo en construir aplicaciones completas utilizando tecnologías modernas. Desde interfaces intuitivas hasta soluciones backend robustas, disfruto resolviendo problemas complejos con código limpio y eficiente.",
   email: "dcastrgd@gmail.com",
   github: "https://github.com/DcastrGD",
   linkedin: "https://www.linkedin.com/in/diego-kstro-3a58b823a/",
